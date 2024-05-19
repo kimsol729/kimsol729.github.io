@@ -49,7 +49,7 @@ additional_links:
 
 # About Section
 # about_title: About Me (Use this to override about section title)
-about_profile_image: images/profile.jpg
+about_profile_image: - Images ![alt text](/images/profile.jpg "Trees")
 about_content: | # this will include new lines to allow paragraphs
 # I'm currently enrolled in the integrated master's and doctoral program in Mathematics at Yonsei University. 
 # My academic journey is driven by a profound interest in mathematical biology, particularly in the realm of infectious disease epidemiology.
