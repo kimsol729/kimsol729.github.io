@@ -19,12 +19,12 @@ darkmode: false
 
 # Social links
 twitter_username: jekyllrb
-github_username:  jekyll
+github_username:  kimsol729
 stackoverflow_username: "00000001"
 dribbble_username: jekyll
 facebook_username: jekyll
 flickr_username: jekyll
-instagram_username: jekyll
+instagram_username: naya_______1
 linkedin_username: jekyll
 xing_username: jekyll
 pinterest_username: jekyll
@@ -51,22 +51,22 @@ additional_links:
 # about_title: About Me (Use this to override about section title)
 about_profile_image: /images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-# I'm currently enrolled in the integrated master's and doctoral program in Mathematics at Yonsei University. 
-# My academic journey is driven by a profound interest in mathematical biology, particularly in the realm of infectious disease epidemiology.
+  I'm currently enrolled in the integrated master's and doctoral program in Mathematics at Yonsei University. 
+  My academic journey is driven by a profound interest in mathematical biology, particularly in the realm of infectious disease epidemiology.
 
-# In my research, I delve into the intricate dynamics of infectious diseases using a multi-faceted approach. 
-#   - Numerical analysis, 
-#   - Agent-Based Models (ABMs)
-#   - Machine learning
-#   - Reinforcement learning
-#   - Deep neural networks
+  In my research, I delve into the intricate dynamics of infectious diseases using a multi-faceted approach. 
+    - Numerical analysis, 
+    - Agent-Based Models (ABMs)
+    - Machine learning
+    - Reinforcement learning
+    - Deep neural networks
   
-  # I explore the complex interplay between pathogens, hosts, and the environment.
-  # You can even add paragraphs by using empty lines like this and add anything else [markdown](https://www.markdownguide.org/getting-started#what-is-markdown) supports such as
-  #   - Lists
-  #   - Tables
-  #   - <a href="google.com">Links</a>
-  #   - Images ![alt text](/images/landscape-trees.jpg "Trees")
+  I explore the complex interplay between pathogens, hosts, and the environment.
+  You can even add paragraphs by using empty lines like this and add anything else [markdown](https://www.markdownguide.org/getting-started#what-is-markdown) supports such as
+    - Lists
+    - Tables
+    - <a href="google.com">Links</a>
+    - Images ![alt text](/images/landscape-trees.jpg "Trees")
 
 content:
   - title: Projects # Title for the section
