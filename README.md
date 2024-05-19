@@ -1,21 +1,12 @@
-# Startbootstrap Stylish Portfolio Jekyll
+# Stylish Portolio template for Jekyll
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-<a href="https://jekyll-themes.com">
-    <img src="https://img.shields.io/badge/featured%20on-JT-red.svg" height="20" alt="Jekyll Themes Shield" >
-</a>
-[![Buy me a coffee](https://img.shields.io/badge/☕-Buy%20me%20a%20coffee-blue.svg)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=9T2GKNLDVXDSE&source=url)
+A Jekyll implementation of the [Stylish Portfolio](http://startbootstrap.com/template-overviews/stylish-portfolio/) template by [Start Bootstrap](http://startbootstrap.com/).
 
-Jekyll theme based on [Stylish Portfolio Bootstrap theme ](https://startbootstrap.com/template-overviews/stylish-portfolio/)
+See the site in action at https://volny.github.io/stylish-portfolio-jekyll/
 
-This is an bootstrap theme develop with Jekyll powered by github pages
+## To use the Stylish Portfolio template in your project
 
-## Demo
-View this jekyll theme in action [here](https://vidhyav656.github.io/startbootstrap-stylish-portfolio-jekyll/)
-
-## Screenshot
-![screenshot](https://github.com/vidhyav656/startbootstrap-stylish-portfolio-jekyll/blob/master/screenshot.jpg)
-
-
----------
-For more details, read the [documentation](http://jekyllrb.com/)
+- Start by adding your info in `_config.yml`
+- Add as many address lines as you want. Your address will also be used to show your location on the map.
+- For the emdeded map to work you'll need to [get a key from Google Maps Embed API](https://developers.google.com/maps/documentation/embed/?hl=en)
+- In `_layouts/front.html` reorder or remove section as you prefer.
