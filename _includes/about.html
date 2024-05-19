@@ -1,12 +1,14 @@
-<section id="about" class="about">
-  <div class="container">
-    <div class="row">
-      <div class="col-lg-12 text-center">
-        <h2>Stylish Portfolio is the perfect theme for your next project!</h2>
-        <p class="lead">This theme features some wonderful photography courtesy of <a target="_blank" href="http://join.deathtothestockphoto.com/">Death to the Stock Photo</a>.</p>
+<div class="container intro-container">
+  <h3 id="{{ site.about_title | slugify | default: 'about-me' }}">{{ site.about_title | default:
+  "About Me" }}</h3>
+  <div class="row clearfix">
+    {%- if site.about_profile_image -%}
+      <div class="col-xs-12 col-sm-4 col-md-3 no-print">
+        <span class="profile-img" style="background-image: url({{ site.about_profile_image | relative_url }})"></span>
       </div>
+    {%- endif -%}
+    <div class="{{ 'col-xs-12 ' }}{%- if site.about_profile_image -%}col-sm-8 col-md-9 col-print-12{%- endif -%}">
+      {{ site.about_content | strip | markdownify }}
     </div>
-    <!-- /.row -->
   </div>
-  <!-- /.container -->
-</section>
+</div>
