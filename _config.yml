@@ -24,7 +24,7 @@ stackoverflow_username: "00000001"
 dribbble_username: jekyll
 facebook_username: jekyll
 flickr_username: jekyll
-instagram_username: naya_______1
+instagram_username: naya________1
 linkedin_username: jekyll
 xing_username: jekyll
 pinterest_username: jekyll
@@ -49,7 +49,7 @@ additional_links:
 
 # About Section
 # about_title: About Me (Use this to override about section title)
-about_profile_image: images/profile.jpg
+about_profile_image: /images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
   I'm currently enrolled in the integrated master's and doctoral program in Mathematics at Yonsei University. 
   My academic journey is driven by a profound interest in mathematical biology, particularly in the realm of infectious disease epidemiology.
